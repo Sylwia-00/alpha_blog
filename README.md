@@ -8,3 +8,8 @@ Make sure you are out of your existing rails application when creating this, it'
 4. Make sure you are able to start server and see both pages from the browser. Take snapshots of both pages and post them in the Q&A of this video.
 
 5. Once done, make another commit of your code, and push the code to your githbub repository and share the Github repo link in the Q&A as well.
+
+
+# Task - Production Deploy
+
+Deploy to production using Heroku (optional) - production hosting service
